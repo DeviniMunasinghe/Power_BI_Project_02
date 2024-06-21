@@ -6,6 +6,8 @@ Dashboard Link :https://drive.google.com/drive/u/0/folders/10a0OBu0xY-jD5VR3bMtj
 
 Project Description: This project involves the creation of a comprehensive Car Sales Dashboard using Power BI for a car dealership company. The primary goal is to design and develop a dynamic, interactive dashboard that visualizes key performance indicators (KPIs) related to car sales. This dashboard will provide real-time insights into sales performance, enabling data-driven decision-making and trend analysis.
 
+
+
 Key Features of the Dashboard:
 
 Sales Overview: Tracks Year-to-Date (YTD) Total Sales, Month-to-Date (MTD) Total Sales, Year-over-Year (YOY) Growth in Total Sales, and differences between YTD and Previous Year-to-Date (PTYD) Sales.
@@ -15,6 +17,7 @@ Average Price Analysis: Monitors YTD Average Price, MTD Average Price, YOY Growt
 Cars Sold Metrics: Displays YTD Cars Sold, MTD Cars Sold, YOY Growth in Cars Sold, and differences between YTD and PTYD Cars Sold.
 
 Visualization Charts: Includes a line chart for YTD Sales Weekly Trend, pie charts for YTD Total Sales by Body Style and Color, a map chart for YTD Cars Sold by Dealer Region, and grids for company-wise sales trends and detailed car sales information.
+
 
 
 
